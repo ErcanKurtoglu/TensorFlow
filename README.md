@@ -1,2 +1,2 @@
 # TensorFlow
-Created for building projects using the TensorFlow library.
+Created for building projects using the TensorFlow framework.
